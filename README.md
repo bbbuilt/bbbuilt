@@ -1,16 +1,26 @@
-## Hi there 👋
+### 👋 Hi, I’m Basebay
 
-<!--
-**bbbuilt/bbbuilt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-oriented developer with a strong focus on automation, bots, and infrastructure tools.  
+I like building practical solutions that work reliably in production.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 What I work with
+- Python (automation, bots, scripts)
+- APIs and integrations
+- Linux servers (Ubuntu)
+- Networking, proxies, system services
+- Databases and data parsing
+
+---
+
+### 🚀 Interests
+- Automation and efficiency
+- Backend systems
+- Bots and integrations
+- Infrastructure and self-hosted tools
+
+---
+
+### 📫 Contact
+- Telegram: @basebay
